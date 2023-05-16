@@ -1,4 +1,4 @@
-# PC-In-Class-Lab-8
+# PC-Lab-8
 
 Exercise Description:
 
